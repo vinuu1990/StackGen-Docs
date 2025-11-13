@@ -1,11 +1,11 @@
 ---
+description: Explain how to set up and monitor StackSync AI Connector in StackBuilder.
 title: StackSync AI Connector
-ai_index: true
-clusters:
-  - appStack
-  - Cloud2Code
-  - StackBuilder
-read_time: 5 min read
+read_time: 4 min read
+customFields:
+ ai_index: true
+ audience: 
+  - developer
 ---
 
 # StackSync AI Connector
